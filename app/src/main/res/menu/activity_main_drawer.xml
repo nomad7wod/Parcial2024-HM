@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_opciones"
+            android:icon="@drawable/baseline_dehaze_24"
+            android:title="@string/menu_opciones" />
+
+        <item
+            android:id="@+id/nav_imc"
+            android:icon="@drawable/baseline_balance_24"
+            android:title="@string/menu_imc" />
+
+        <item
+            android:id="@+id/nav_signoz"
+            android:icon="@drawable/signozodiacal"
+            android:title="@string/menu_signoz" />
+
+        <item
+            android:id="@+id/nav_gener"
+            android:icon="@drawable/generaciones"
+            android:title="@string/menu_gener" />
+
+    </group>
+</menu>

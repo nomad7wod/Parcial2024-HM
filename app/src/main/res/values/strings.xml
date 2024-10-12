@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Parcial2024-1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_opciones">Opciones</string>
+    <string name="menu_imc">IMC</string>
+    <string name="menu_signoz">Signos</string>
+    <string name="menu_gener">Generar</string>
+
+    <string name="tvCorreo">Ingrese su correo electrónico:</string>
+    <string name="tvClave">Ingrese su clave:</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="hintCorreo">Ingrese su correo</string>
+    <string name="hintPassword">Ingrese su clave</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvOpciones">Opciones</string>
+    <string name="btnImc">IMC</string>
+    <string name="btnSignoz">Signo Zodiacal</string>
+    <string name="btnGener">Generaciones</string>
+    <string name="btnRegresar">Regresar</string>
+    <string name="tvImc">IMC</string>
+    <string name="tvPeso">Ingrese su peso (En kg):</string>
+    <string name="tvEst">Ingrese su estatatura(en metros):</string>
+    <string name="tvRes">Resultado:</string>
+    <string name="categ">Categoría:</string>
+    <string name="hintPeso" />
+    <string name="hintpeso">Ingrese su peso</string>
+    <string name="hintEst">Ingrese Estatura</string>
+    <string name="btnCalc">Calcular</string>
+    <string name="btnMenu">Regresar al menu principal</string>
+    <string name="btnRegreso">Regresar al menu principal</string>
+    <string name="tvTitle">Signo Zodiacal</string>
+    <string name="tvIngFech">Ingrese su fecha de nacimiento:</string>
+    <string name="hintFecha">Ingrese su fecha</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="tvEdad">Edad:</string>
+    <string name="tvSigno">Signo:</string>
+    <string name="btnBack">Regresar al menu principal</string>
+</resources>
