@@ -1,4 +1,4 @@
-package dev.williamscg.parcial2024_1
+package dev.hernanHM.parcial2024_1
 
 import android.os.Bundle
 import android.view.Menu
@@ -11,6 +11,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
+import dev.williamscg.parcial2024_1.R
 import dev.williamscg.parcial2024_1.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
